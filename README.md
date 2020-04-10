@@ -1,21 +1,8 @@
 # AprsIsSimulator
 
-**TODO: Add description**
+This is a simple simulator that mimics the APRS IS telnet-based servers. It reads lines of APRS data from priv/data.txt and sends it on the specified port.
 
-## Installation
+## Usage
+export PORT=1234
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `aprs_is_simulator` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:aprs_is_simulator, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/aprs_is_simulator](https://hexdocs.pm/aprs_is_simulator).
-
+iex -S mix
