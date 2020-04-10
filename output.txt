@@ -1,0 +1,12 @@
+
+18:09:53.603 [info]  Accepting connections on port 4040
+Compiling 1 file (.ex)
+
+13:49:07.599 [info]  Accepting connections on port 4040
+
+13:49:13.493 [info]  Client connected: #Port<0.3539>
+Compiling 1 file (.ex)
+
+17:10:47.216 [info]  Accepting connections on port 4040
+
+17:10:53.881 [info]  Client connected: #Port<0.3551>
